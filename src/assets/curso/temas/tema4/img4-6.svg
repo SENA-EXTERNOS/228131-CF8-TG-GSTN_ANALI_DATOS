@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="819.084" height="327.246" viewBox="0 0 819.084 327.246">
+  <g id="Grupo_213657" data-name="Grupo 213657" transform="translate(-344.422 -442.272)">
+    <rect id="Rectángulo_303207" data-name="Rectángulo 303207" width="350.36" height="92.572" rx="20.148" transform="translate(567.505 442.272)" fill="#0c1f5a"/>
+    <text id="Infraestructura_TI" data-name="Infraestructura TI" transform="translate(636.505 495.444)" fill="#fff" font-size="27" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Infraestructura TI</tspan></text>
+    <rect id="Rectángulo_303208" data-name="Rectángulo 303208" width="193.465" height="97.903" rx="10.231" transform="translate(344.422 671.616)" fill="#abb3cd"/>
+    <rect id="Rectángulo_303209" data-name="Rectángulo 303209" width="193.465" height="97.903" rx="10.231" transform="translate(552.961 671.616)" fill="#4dd0e1"/>
+    <rect id="Rectángulo_303210" data-name="Rectángulo 303210" width="193.465" height="97.903" rx="10.231" transform="translate(761.501 671.616)" fill="#feca2e"/>
+    <rect id="Rectángulo_303211" data-name="Rectángulo 303211" width="193.465" height="97.903" rx="10.231" transform="translate(970.04 671.616)" fill="#bddcf6"/>
+    <line id="Línea_501" data-name="Línea 501" y2="136.771" transform="translate(858.233 530.698)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_502" data-name="Línea 502" x2="151.179" y2="142.64" transform="translate(911.109 524.491)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_503" data-name="Línea 503" y2="132.625" transform="translate(649.694 534.844)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <line id="Línea_504" data-name="Línea 504" x1="129.538" y2="140.975" transform="translate(445.505 526.29)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <text id="Objetivos" transform="translate(439.179 725.397)" font-size="21" font-family="Roboto-Regular, Roboto"><tspan x="-43.569" y="0">Objetivos</tspan></text>
+    <text id="Tipos" transform="translate(648.83 726.397)" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-27.35" y="0">Tipos</tspan></text>
+    <text id="Gestión" transform="translate(856.617 725.397)" font-size="21" font-family="Roboto-Regular, Roboto"><tspan x="-35.889" y="0">Gestión</tspan></text>
+    <text id="Dinámicas" transform="translate(1065.831 726.397)" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-51.659" y="0">Dinámicas</tspan></text>
+    <path id="Trazado_224963" data-name="Trazado 224963" d="M416.811,593.118v15.039h13.255" transform="translate(28.463 59.312)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Trazado_224964" data-name="Trazado 224964" d="M556.358,596.28l10.634,10.634,10.634-10.634" transform="translate(83.333 60.556)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Trazado_224965" data-name="Trazado 224965" d="M705.589,596.28l10.634,10.634,10.634-10.634" transform="translate(142.01 60.556)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+    <path id="Trazado_224966" data-name="Trazado 224966" d="M848.649,608.157h15.039V593.118" transform="translate(198.261 59.312)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="3"/>
+  </g>
+</svg>

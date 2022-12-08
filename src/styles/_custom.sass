@@ -2,14 +2,14 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 24%
+    right: 65%
+    width: 37%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
     right: 30%
-
 
 @keyframes float1
   0%
@@ -17,3 +17,197 @@
 
   100%
     transform: translateY(0px)
+
+//CAMBIO DE TAMAÑO / ZOOM
+.animation-size
+  &-1
+    animation: size 3.5s ease infinite alternate
+    position: absolute
+    top: 10%
+    right: 61%
+  &-2
+    animation: size 3.5s ease infinite alternate-reverse
+    position: absolute
+    top: 12%
+    right: 30%
+  &-3
+    animation: size 4s ease infinite alternate
+    position: absolute
+    top: 30%
+    right: 10%
+
+@keyframes size
+  0%
+    transform: scale(.8)
+  50%
+    transform: scale(.9)
+  100%
+    transform: scale(1)
+
+@media screen and (max-width: 767px)
+  figure > img
+    max-width: 350px
+      margin: 1rem auto;
+
+// COLORES CORTOS
+.cp
+  color: $color-primario !important
+
+.cs
+  color: $color-secundario !important
+  
+.cac
+  color: $color-acento-contenido !important
+
+.cab
+  color: $color-acento-botones !important
+
+.cst
+  color: $color-sistema-texto !important
+
+.recuadroid
+  position: relative
+  &::before
+    content: ''
+    width: 50%
+    height: 35%
+    background-color: rgba(19, 138, 248, .1)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+//TEMA 1
+.tarjeta.color-primario1.p-4
+  background-color: rgba(19, 138, 248, .08)
+
+.tabs-a__tab
+  background-color: #E8E8E8
+
+.pasos-a__circle
+  background-color: $color-acento-contenido !important
+
+.pasos-a__circle
+  div
+    color: $white !important
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 8%
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-acento-contenido
+
+//TEMA 2
+.tarjeta--lt1
+  background-color: rgba(254, 202, 46, .06)
+
+.tarjeta--boton
+  background-color: #E8F3FC
+
+.tarjeta-avatar
+  .tarjeta--boton.color-acento-botones.p-4
+    height: 263.19px
+
+.tarjeta.color-primario2.p-4
+  background-color: $color-primario
+  height: 280px //274.8px
+
+.slyder-f__btn
+  i
+    color: #707BA3
+
+.acordion__accion__btn--a
+  background-color: #FECA2E
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+//TEMA 3
+.crd3_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important
+  border-radius: 8%
+  &:hover    
+    .crd3_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd3_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #FFE595
+
+.bloque-texto-a.color-primario.p-4.p-md-5.mb-5
+  background-color: $color-primario
+
+.img3-10
+  &::before
+    background-image: url('../assets/curso/temas/tema3/img3-10.png')
+    background-size: cover
+    background-position: center center
+
+.recuadroid3
+  position: relative
+  &::before
+    content: ''
+    width: 71%
+    height: 24%
+    background-color: rgba(77, 208, 225, .15)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+.tarjeta-avatar.h-100
+  height: 250px !important
+
+.tarjeta--blanca
+  background-color: #FFFFFF
+
+// .acordion__accion__btn--b.h3.mb-0
+//   background-color: #FFEDB6
+//   border-color: #FFEDB6
+
+.recuadroid32
+  position: relative
+  &::before
+    content: ''
+    width: 63%
+    height: 24%
+    background-color: rgba(254, 202, 46, .15)
+    bottom: 0
+    right: 0
+    display: block
+    position: absolute
+    mix-blend-mode: multiply
+
+//TEMA 4
+.img4-1
+  &::before
+    background-image: url('../assets/curso/temas/tema4/img4-1.png')
+    background-size: cover
+    background-position: center center
+
+.cfta4
+  background-color: rgba(19, 138, 248, .25)
+
+.tarjeta-avatar.h-101
+  height: 220px !important
