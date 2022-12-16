@@ -25,8 +25,7 @@
             figure
               img(src="@/assets/curso/temas/tema3/img3-2.png", alt="Costo")
           .crd3_hover_txt--body.w-100
-            h4.mb-3.text-center
-              em Costo
+            h4.mb-3.text-center Costo
             p.text-center.mb-0 Se refiere a cuánto se va a invertir en el mantenimiento. Es importante saber cuánto vale la aplicación en la que se va a invertir y el costo en la infraestructura.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd3_hover_txt(data-aos="flip-left")

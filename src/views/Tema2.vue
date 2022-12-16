@@ -20,7 +20,7 @@
       LineaTiempoC.color-acento-botones(text-small)
         .row.justify-content-center.align-items-center(titulo="Formato de verificación")
           .col-md-6.mb-4.mb-md-0
-            p Formato de verificación. Permite comprobar si los datos que se ingresan siguen un patrón que se ha establecido previamente, un ejemplo, puede ser los números de teléfonos.
+            p Permite comprobar si los datos que se ingresan siguen un patrón que se ha establecido previamente, un ejemplo, puede ser los números de teléfono.
           .col-md-4
             figure
               img(src="@/assets/curso/temas/tema2/img2-2.svg" alt="Verificación")
@@ -44,7 +44,7 @@
               img(src="@/assets/curso/temas/tema2/img2-5.svg" alt="Verificaciones")
         .row.justify-content-center.align-items-center(titulo="Cuadro desplegable")
           .col-md-6.mb-4.mb-md-0
-            p Reduce las posibilidades de errores ya que parametriza las respuestas y sugiere automáticamente opciones que se encuentran prestablecidas, ayudando a evitar respuestas no deseadas o incoherentes.
+            p Reduce las posibilidades de errores ya que parametriza las respuestas y sugiere automáticamente opciones que se encuentran preestablecidas, ayudando a evitar respuestas no deseadas o incoherentes.
           .col-md-4
             figure
               img(src="@/assets/curso/temas/tema2/img2-6.svg" alt="Cuadro desplegable")
@@ -107,13 +107,11 @@
       .col-lg-8(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="Sencilla")
-            h4 Sencilla
             p Todas las bodegas comparten un diseño básico, los datos que no son procesados se guardan en un repositorio central que se alimenta de fuentes de datos permitiendo que los usuarios ingresen para las tareas de análisis.
           .tarjeta.color-primario1.p-4(titulo="Sencilla con zona de preparación")
-            h4 Sencilla con zonaa de preparación
+            h4 Sencilla con zona de preparación
             p Antes de colocar los datos en un almacén se hace necesario primero limpiarlos y procesarlos, con ayuda de la programación.
           .tarjeta.color-primario1.p-4(titulo="Radial")
-            h4 Radial
             p Cuando se añade 
               em data marts 
               |entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar, que los 
@@ -146,10 +144,10 @@
         .cajon.color-acento-botones.p-4.mb-4
           p.mb-0 El método OLAP es utilizado en la minería de datos o descubrimiento de relaciones desconocidas entre elementos de datos; no necesita que la base de datos sea extensa, como un almacén de datos, porque no todos los datos transaccionales son necesarios para el análisis.
 
-    p.mb-5 Los sistemas OLAP, se dividen generalmente en tres tipos:
+    p.mb-5(data-aos="fade-right") Los sistemas OLAP, se dividen generalmente en tres tipos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-sm-4
+      .col-lg-4.mb-sm-4(data-aos="flip-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img2-14.svg', alt='MOLAP')
           .tarjeta--boton.color-acento-botones.p-4
@@ -158,7 +156,7 @@
               br
               h5 OLAP multidimensionoal (MOLAP)
               p.text-center Indexa directamente en una base de datos multidimensional.
-      .col-lg-4.mb-sm-4
+      .col-lg-4.mb-sm-4(data-aos="flip-up")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img2-15.svg', alt='ROLAP')
           .tarjeta--boton.color-acento-botones.p-4
@@ -167,7 +165,7 @@
               br
               h5 OLAP relacionoal (ROLAP)
               p.text-center Permite realizar un análisis multidimensional de forma dinámica de los datos almacenados en una DB relacional.
-      .col-lg-4.mb-sm-4
+      .col-lg-4.mb-sm-4(data-aos="flip-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img2-16.svg', alt='OLAP híbrido')
           .tarjeta--boton.color-acento-botones.p-4
@@ -244,32 +242,32 @@
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-25.svg', alt='Memoria RAM')
+            img(src='@/assets/curso/temas/tema2/img2-25.svg', alt='Memoria RAM')(style="height: 144.2px")
         h5.text-center Memoria RAM
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-26.svg', alt='Memoria Caché')
+            img(src='@/assets/curso/temas/tema2/img2-26.svg', alt='Memoria Caché')(style="height: 144.2px")
         h5.text-center Memoria Caché
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-27.svg', alt='Discos magnéticos')
+            img(src='@/assets/curso/temas/tema2/img2-27.svg', alt='Discos magnéticos')(style="height: 144.2px")
         h5.text-center Discos magnéticos
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-28.svg', alt='Discos ópticos')
+            img(src='@/assets/curso/temas/tema2/img2-28.svg', alt='Discos ópticos')(style="height: 144.2px")
         h5.text-center Discos ópticos como CD/DVD
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-29.svg', alt='Memorias USB')
+            img(src='@/assets/curso/temas/tema2/img2-29.svg', alt='Memorias USB')(style="height: 144.2px")
         h5.text-center Memorias USB
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema2/img2-30.svg', alt='Discos externos')
+            img(src='@/assets/curso/temas/tema2/img2-30.svg', alt='Discos externos')(style="height: 144.2px")
         h5.text-center Discos externos, entre otras formas de almacenamiento, en la memoria heredada de los dispositivos.
 
     .row.justify-content-center.align-items-center.mb-5

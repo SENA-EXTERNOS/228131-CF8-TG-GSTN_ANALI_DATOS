@@ -118,7 +118,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-down")
-        PasosA.color-acento-botones(tipo="n")
+        PasosA.color-acento-botones(tipo="l")
           .row.justify-content-center.align-items-center(titulo="A")
             .col-md-7.mb-4.mb-md-0
               h4 Atomicidad
@@ -146,7 +146,7 @@
                 img(src="@/assets/curso/temas/tema1/img1-10.svg" alt="Durabilidad")
             .col-md-7.mb-4.mb-md-0
               h4 Durabilidad
-              p Es la capacidad de persistir y que las operaciones no puedan ser desechas, aun si el sistema presenta fallas o contingencias; durabilidad significa que se confirmó una transacción, un ejemplo de esto es cuando se almacenan datos en modelos relacionales o cuando se ejecutan sentencias de código SQL.
+              p Es la capacidad de persistir y que las operaciones no puedan ser deshechas, aun si el sistema presenta fallas o contingencias; durabilidad significa que se confirmó una transacción, un ejemplo de esto es cuando se almacenan datos en modelos relacionales o cuando se ejecutan sentencias de código SQL.
 
     Separador
 
