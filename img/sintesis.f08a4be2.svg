@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1194" height="487" viewBox="0 0 1194 487">
+  <g id="Grupo_215598" data-name="Grupo 215598" transform="translate(-233.333 -445.968)">
+    <line id="Línea_192" data-name="Línea 192" y1="34" transform="translate(1145.833 504.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_192-2" data-name="Línea 192" y1="34" transform="translate(475.083 504.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <g id="Rectángulo_41022" data-name="Rectángulo 41022" transform="translate(350.333 537.968)">
+      <rect id="Rectángulo_44740" data-name="Rectángulo 44740" width="250" height="80" rx="11" transform="translate(0)" fill="#0f2771"/>
+    </g>
+    <text id="Validación_de_la_arquitectura_de_DB" data-name="Validación de la arquitectura de DB" transform="translate(468.333 555.968)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-56.902" y="17">Validación de la </tspan><tspan x="-66.914" y="41">arquitectura de DB</tspan></text>
+    <g id="Rectángulo_41022-2" data-name="Rectángulo 41022" transform="translate(569.333 445.968)">
+      <g id="Rectángulo_44740-2" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#0f2771" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_41022-3" data-name="Rectángulo 41022" transform="translate(400.333 445.968)">
+      <g id="Rectángulo_44740-3" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#0f2771" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_41022-4" data-name="Rectángulo 41022" transform="translate(233.333 445.968)">
+      <g id="Rectángulo_44740-4" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#0f2771" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Niveles_de_abstracción" data-name="Niveles de abstracción" transform="translate(645.333 453.682)" fill="#0f2771" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-37.52" y="17">Niveles de </tspan><tspan x="-42.168" y="41">abstracción</tspan></text>
+    <text id="Procesamiento" transform="translate(474.333 465.968)" fill="#0f2771" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-54.32" y="17">Procesamiento</tspan></text>
+    <text id="Bodega" transform="translate(306.333 465.968)" fill="#0f2771" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-27.316" y="17">Bodega</tspan></text>
+    <g id="Rectángulo_41022-5" data-name="Rectángulo 41022" transform="translate(1231.333 445.968)">
+      <g id="Rectángulo_44740-5" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#4dd0e1" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_41022-6" data-name="Rectángulo 41022" transform="translate(1071.333 445.968)">
+      <g id="Rectángulo_44740-6" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#4dd0e1" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <g id="Rectángulo_41022-7" data-name="Rectángulo 41022" transform="translate(911.333 445.968)">
+      <g id="Rectángulo_44740-7" data-name="Rectángulo 44740" transform="translate(0)" fill="none" stroke="#4dd0e1" stroke-width="3">
+        <rect width="150" height="60" rx="11" stroke="none"/>
+        <rect x="1.5" y="1.5" width="147" height="57" rx="9.5" fill="none"/>
+      </g>
+    </g>
+    <text id="Normalizazión" transform="translate(1307.333 465.968)" fill="#4dd0e1" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-52.102" y="17">Normalizazión</tspan></text>
+    <text id="Diseño" transform="translate(1145.333 465.968)" fill="#4dd0e1" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-24.762" y="17">Diseño</tspan></text>
+    <text id="Metodología" transform="translate(984.333 465.968)" fill="#4dd0e1" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-45.164" y="17">Metodología</tspan></text>
+    <rect id="Rectángulo_44785" data-name="Rectángulo 44785" width="250" height="80" rx="11" transform="translate(1020.333 537.968)" fill="#4dd0e1"/>
+    <rect id="Rectángulo_303225" data-name="Rectángulo 303225" width="250" height="80" rx="11" transform="translate(675.333 696.968)" fill="#feca2e"/>
+    <rect id="Rectángulo_303226" data-name="Rectángulo 303226" width="250" height="80" rx="11" transform="translate(675.333 852.968)" fill="#4dd0e1"/>
+    <text id="Modelado_de_bases_de_datos_para_analítica" data-name="Modelado de bases de datos para analítica" transform="translate(1140.333 555.968)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-80.789" y="17">Modelado de bases de </tspan><tspan x="-70.543" y="41">datos para analítica</tspan></text>
+    <text id="Arquitectura_y_metodología_de_desarrollo" data-name="Arquitectura y metodología de desarrollo" transform="translate(796.333 702.968)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-50.895" y="17">Arquitectura y </tspan><tspan x="-55.906" y="41">metodología de </tspan><tspan x="-36.219" y="65">desarrollo</tspan></text>
+    <text id="Infraestructura_TI" data-name="Infraestructura TI" transform="translate(796.333 882.968)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-62.785" y="17">Infraestructura TI</tspan></text>
+    <path id="Trazado_194163" data-name="Trazado 194163" d="M4607.389,810.429h145.983c24.122,0,43.675,17.908,43.675,40h0c0,22.091-19.554,40-43.675,40H4607.389c-24.12,0-43.675-17.909-43.675-40h0C4563.714,828.337,4583.269,810.429,4607.389,810.429Z" transform="translate(-3871.714 -272.461)" fill="none"/>
+    <g id="Rectángulo_44740-8" data-name="Rectángulo 44740" transform="translate(675.333 537.968)" fill="none" stroke="#0f2771" stroke-width="3">
+      <rect width="250" height="80" rx="9" stroke="none"/>
+      <rect x="1.5" y="1.5" width="247" height="77" rx="7.5" fill="none"/>
+    </g>
+    <text id="BASES_DE_DATOS" data-name="BASES DE DATOS" transform="translate(800.333 561.968)" fill="#12263f" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-96.527" y="25">BASES DE DATOS</tspan></text>
+    <line id="Línea_192-3" data-name="Línea 192" y1="32" x2="169" transform="translate(1145.833 506.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_192-4" data-name="Línea 192" y1="32" x2="169" transform="translate(475.083 506.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_192-5" data-name="Línea 192" x1="169" y1="32" transform="translate(977.333 506.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <line id="Línea_192-6" data-name="Línea 192" x1="169" y1="32" transform="translate(306.583 506.468)" fill="none" stroke="#707070" stroke-width="2"/>
+    <path id="Unión_1" data-name="Unión 1" d="M12759.333,10447.467l25-14.5v6h39v17h-39v6Z" transform="translate(-12154.999 -9872.001)" fill="#bddcf6"/>
+    <path id="Unión_2" data-name="Unión 2" d="M0,14.5,25,29V23H64V6H25V0Z" transform="translate(1000.336 589.968) rotate(180)" fill="#bddcf6"/>
+    <path id="Unión_3" data-name="Unión 3" d="M0,14.5,25,29V23H64V6H25V0Z" transform="translate(786.333 845.969) rotate(-90)" fill="#feca2e"/>
+    <path id="Unión_4" data-name="Unión 4" d="M0,14.5,25,29V23H64V6H25V0Z" transform="translate(786.333 689.969) rotate(-90)" fill="#feca2e"/>
+  </g>
+</svg>

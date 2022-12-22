@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="313" viewBox="0 0 400 313">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_303464" data-name="Rectángulo 303464" width="400" height="313" transform="translate(-3355 -8766)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_215603" data-name="Grupo 215603" transform="translate(3355 12719)">
+    <g id="Enmascarar_grupo_72" data-name="Enmascarar grupo 72" transform="translate(0 -3953)" clip-path="url(#clip-path)">
+      <g id="Grupo_213874" data-name="Grupo 213874" transform="translate(0 1)">
+        <g id="Grupo_210649" data-name="Grupo 210649" transform="translate(-3311.465 -8767)">
+          <path id="Trazado_222249" data-name="Trazado 222249" d="M526.418,378.948a104.857,104.857,0,1,0-195.273-54.626,104.85,104.85,0,1,0,95.448,179.661,80.929,80.929,0,1,0,99.826-125.035Z" transform="translate(-251.512 -220.984)" fill="#bddcf6" fill-rule="evenodd"/>
+        </g>
+        <g id="Grupo_210710" data-name="Grupo 210710" transform="translate(-4278 -12352.112)">
+          <g id="Grupo_210709" data-name="Grupo 210709" transform="translate(914.363 3479.444)">
+            <g id="Grupo_210700" data-name="Grupo 210700" transform="translate(60.677 188.289)">
+              <rect id="Rectángulo_295704" data-name="Rectángulo 295704" width="294.218" height="109.154" fill="#c1eff5"/>
+            </g>
+            <g id="Grupo_210701" data-name="Grupo 210701" transform="translate(60.637 222.168)">
+              <rect id="Rectángulo_295705" data-name="Rectángulo 295705" width="294.218" height="37.179" fill="#0f2771"/>
+            </g>
+            <g id="Grupo_210711" data-name="Grupo 210711" transform="translate(60.637 298.259)">
+              <rect id="Rectángulo_295705-2" data-name="Rectángulo 295705" width="294.218" height="37.179" fill="#c1eff5"/>
+            </g>
+            <g id="Grupo_210712" data-name="Grupo 210712" transform="translate(60.637 335.897)">
+              <rect id="Rectángulo_295705-3" data-name="Rectángulo 295705" width="294.218" height="37.179" fill="#c1eff5"/>
+            </g>
+            <g id="Grupo_210702" data-name="Grupo 210702" transform="translate(60.677 147.687)">
+              <rect id="Rectángulo_295706" data-name="Rectángulo 295706" width="294.19" height="40.564" fill="#feca2e"/>
+            </g>
+            <text id="Cuadro_desplegable" data-name="Cuadro desplegable" transform="translate(76.516 175.137)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Cuadro desplegable</tspan></text>
+            <g id="Grupo_210703" data-name="Grupo 210703" transform="translate(314.274 147.668)">
+              <rect id="Rectángulo_295707" data-name="Rectángulo 295707" width="40.621" height="40.621" fill="#202a4a"/>
+            </g>
+            <g id="Grupo_210708" data-name="Grupo 210708" transform="translate(327.173 159.008)">
+              <g id="Grupo_210705" data-name="Grupo 210705" transform="translate(0 10.463)">
+                <g id="Grupo_210704" data-name="Grupo 210704">
+                  <path id="Trazado_222300" data-name="Trazado 222300" d="M247.031,169.543l7.271-7.25H239.435Z" transform="translate(-239.435 -162.293)" fill="#bddcf6"/>
+                </g>
+              </g>
+              <g id="Grupo_210707" data-name="Grupo 210707">
+                <g id="Grupo_210706" data-name="Grupo 210706">
+                  <path id="Trazado_222301" data-name="Trazado 222301" d="M246.706,155.275l-7.271,7.25H254.3Z" transform="translate(-239.435 -155.275)" fill="#bddcf6"/>
+                </g>
+              </g>
+            </g>
+            <text id="Opción_1" data-name="Opción 1" transform="translate(76.516 207.414)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Opción 1</tspan></text>
+            <text id="Opción_2" data-name="Opción 2" transform="translate(76.516 245.052)" fill="#feca2e" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Opción 2</tspan></text>
+            <text id="Opción_4" data-name="Opción 4" transform="translate(76.516 321.144)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Opción 4</tspan></text>
+            <text id="Opción_5" data-name="Opción 5" transform="translate(76.516 358.781)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Opción 5</tspan></text>
+            <text id="Opción_3" data-name="Opción 3" transform="translate(76.516 282.69)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Opción 3</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
