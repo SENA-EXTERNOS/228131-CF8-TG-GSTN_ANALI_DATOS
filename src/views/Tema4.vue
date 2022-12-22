@@ -66,7 +66,7 @@
           |móvil hasta aplicativos empresariales, requieren de una infraestructura TI como pilar de su eficacia. Esta infraestructura sirve en las estrategias de negocios.
         p.mb-4 El objetivo es lograr la efectividad general de los procesos de TI, implementar las políticas apropiadas, el correcto manejo de los datos, optimizar el recurso humano; la infraestructura TI es fundamental ya que permite la toma de decisiones más inteligentes, monitorear el entorno tecnológico y detectar cuando existen cambios o actualizaciones de los sistemas, posibilitando ideas de cuándo y cómo se deben mitigar los riesgos.
 
-        .cajon.color-acento-botones.p-4.mb-4
+        .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-up")
           p De igual manera, se pueden limitar los posibles desastres y reducir el impacto de daños haciendo uso de 
             em software 
             |de monitoreo para identificar las amenazas de forma oportuna; desencadenando como resultante la reducción de costos, tiempos de inactividades y perdida de datos, entre otros.
@@ -124,7 +124,7 @@
           img(src='@/assets/curso/temas/tema4/img4-10.svg' alt='ITIM Implementation')
 
     .row.justify-content-center.mb-5
-      .col-lg-4(data-aos="fade-right")
+      .col-lg-4.mb-sm-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img4-11.png' alt='Persona pensando')
       .col-lg-8(data-aos="zoom-in")

@@ -273,7 +273,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
         p.mb-4 Por otro lado, las computadoras tienen un tipo de almacenamiento no volátil que se usa solo para lectura como lo es la ROM, lo que significa que no se puede guardar información.
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-up")
           p.mb-0 Los SSD utilizan el método de almacenamiento en 
             em chips 
             |de memoria; la diferencia de las unidades de disco rígido HDD y los SSD es que los SDD no tienen partes mecánicas móviles, lo que permite una velocidad superior en el acceso a la información, menor latencia y persistencia de datos en memoria. También es importante resaltar que los sistemas de almacenamiento que utilizan discos requieren de un sistema de respaldo de batería para mantener los datos persistentes (Martin, 2018).

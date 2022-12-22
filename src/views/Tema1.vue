@@ -68,7 +68,7 @@
             p.mb-0 En la restricción de dominio, se especifican cada uno de los valores de cada atributo, que debe ser un valor atómico de su dominio- Los tipos de datos asociados suelen incluir los tipos numéricos para enteros y reales; también, pueden ser especificados por conjuntos explícitos, donde se tienen las restricciones de clave y nulos; en el esquema de la base de datos relacional se debe tener definido una clave primaria. La clave de una relación es determinada por el significado de los atributos y es una propiedad que no varía con el tiempo.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-10
+      .col-lg-10(data-aos="flip-up")
         .cajon.color-acento-botones.p-4.mb-4
           p Otra de las restricciones sobre atributos especifica si se permiten valores nulos o no, si toda tupla de una relación debe tener un valor válido y no nulo para el atributo. Este tendrá la restricción de no ser nulo (Mosquera et al., 2017). La restricción de integridad, establece que ningún valor de clave primaria puede ser nulo, porque el valor de la llave primaria funciona para identificar las tuplas de una relación; si la llave primaria tiene valores nulos, no podríamos identificar algunas tuplas.
 
@@ -78,14 +78,14 @@
       h2 1.3 Normalización de bases de datos
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4.mb-sm-4
+      .col-lg-4.mb-sm-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema1/img1-4.svg" alt="Estante de servidores")
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p Es el proceso que organiza una base de datos. Para esto, se debe tener en cuenta la creación de tablas y reglas que se utilizan para definir las relaciones, que garantizan la protección de los datos, dando flexibilidad para eliminar redundancias; normalizando una base de datos, se puede asegurar que en un futuro se realicen consultas que sean no necesariamente complejas.
         p.mb-0 Los datos redundantes desperdician espacio en los equipos y generan problemas de mantenimiento entonces la normalización ayuda con este problema. Algunas de sus ventajas son evitar la redundancia de datos, facilitar el acceso a los datos, optimizar el espacio de almacenamiento, proteger la integridad de los datos y, finalmente, evitar problemas en la actualización de los datos en las tablas.
 
-    p.mb-5 Existen varias formas de normalizar, entre ellas están:
+    p.mb-5(data-aos="fade-right") Existen varias formas de normalizar, entre ellas están:
 
     .row.justify-content-center.mb-5
       .col-lg-8(data-aos="zoom-in")

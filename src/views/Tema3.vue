@@ -269,12 +269,12 @@
           |desarrollado; los atributos de la calidad deben ser la corrección, perfección, consistencia, confiabilidad, estandarización y eficacia de costos.
         p.mb-4 Existen dos tipos de verificación, la formal y la del ciclo de vida. La verificación formal es demostrable matemáticamente en la concordancia del código fuente con sus especificaciones; la verificación del ciclo de vida es un proceso en donde se plantean fases que cumplen con las especificaciones establecidas.
 
-        .cajon.color-acento-botones.p-4.mb-4
+        .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-up")
           p.mb-0 La validación es la evaluación del 
             em software 
             |al final del proceso del desarrollo de este. Se enfoca en el proceso de evaluación de componentes, permitiendo establecer si los productos en las fases satisfacen los requerimientos.
 
-    p.mb-5 Para el desarrollo de una verificación se debe tener en cuenta la consistencia, donde se vigila que la información sea coherente y precisa. Dentro de los métodos de verificación más utilizados están:
+    p.mb-5(data-aos="fade-left") Para el desarrollo de una verificación se debe tener en cuenta la consistencia, donde se vigila que la información sea coherente y precisa. Dentro de los métodos de verificación más utilizados están:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="zoom-in")
