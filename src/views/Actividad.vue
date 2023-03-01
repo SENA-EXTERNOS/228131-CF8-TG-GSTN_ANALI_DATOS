@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo.color-secundario
           h2 Arquitectura del sistema
-        p.mb-4 Apreciado aprendiz, la finalidad de esta actividad es verificar la apropiación de los temas abordados en este componente formativo, por lo que es importante que en cada una de las preguntas elija, entre las opciones, la respuesta correcta.
+        p.mb-4 Apreciado aprendiz, a continuación, encontrará una serie de preguntas que deberá resolver, con el objetivo de evaluar la aprehensión de los conocimientos expuestos en este componente formativo.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

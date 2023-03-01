@@ -17,10 +17,10 @@
           img(src="@/assets/curso/temas/tema2/img2-1.png" alt="Validación de código")
 
     .tarjeta.tarjeta--lt1.p-4.mb-5(data-aos="zoom-in")
-      LineaTiempoC.color-acento-botones(text-small)
+      LineaTiempoC.color-acento-botones
         .row.justify-content-center.align-items-center(titulo="Formato de verificación")
           .col-md-6.mb-4.mb-md-0
-            p Permite comprobar si los datos que se ingresan siguen un patrón que se ha establecido previamente, un ejemplo, puede ser los números de teléfono.
+            p Permite comprobar si los datos que se ingresan siguen un patrón que se ha establecido previamente; un ejemplo puede ser, los números telefónicos.
           .col-md-4
             figure
               img(src="@/assets/curso/temas/tema2/img2-2.svg" alt="Verificación")
@@ -38,7 +38,7 @@
               img(src="@/assets/curso/temas/tema2/img2-4.svg" alt="Lista de chequeo")
         .row.justify-content-center.align-items-center(titulo="Verificación de tipo")
           .col-md-6.mb-4.mb-md-0
-            p Asegura que los datos introducidos sean de algún tipo en específico; por ejemplo, que cuando se ingrese una fecha no permita ingresar letras.
+            p Asegura que los datos introducidos sean de algún tipo en específico; por ejemplo, que cuando se ingrese una fecha no permite ingresar letras.
           .col-md-4
             figure
               img(src="@/assets/curso/temas/tema2/img2-5.svg" alt="Verificaciones")
@@ -61,11 +61,8 @@
             figure
               img(src="@/assets/curso/temas/tema2/img2-8.svg" alt="Identificador")
 
-    Separador
-
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.1 Inteligencia de negocios (
-        em business intelligence
+    h3(data-aos='fade-right') Inteligencia de negocios (
+      em business intelligence
         |)
 
     .row.justify-content-center.align-items-center.mb-5
@@ -74,18 +71,15 @@
           img(src="@/assets/curso/temas/tema2/img2-9.svg" alt="Reunión de trabajo")
       .col-lg-7(data-aos="fade-left")
         p La inteligencia de negocios genera una combinación entre el análisis de negocios, minería de datos, herramientas e infraestructura de datos, permitiendo la toma de decisiones a través de los datos, ayudando a la organización a mejorar sus procesos. Se tiene una inteligencia de negocios cuando se diseña un objetivo integral de los datos en la empresa y se utiliza para generar un cambio, mejorar la eficiencia y la adaptación en el mercado.
-        p.mb-0 La BI, muestra datos actuales e históricos para que las empresas tomen las mejores decisiones dentro de su contexto empresarial, por eso los analistas pueden aprovechar, mediante los puntos de referencia en rendimientos, para que la organización funcione de manera fluida. Dentro de las ventajas están: identificar el comportamiento de las ganancias, analizar el comportamiento del cliente, comparar datos con los competidores, optimizar operaciones, predecir el éxito, entre otras.
+        p.mb-0 La BI muestra datos actuales e históricos, para que las empresas tomen las mejores decisiones dentro de su contexto empresarial; por esto, los analistas pueden aprovechar mediante los puntos de referencia en rendimientos, para que la organización funcione de manera fluida. Dentro de las ventajas están: identificar el comportamiento de las ganancias, analizar el comportamiento del cliente, comparar datos con los competidores, optimizar operaciones, predecir el éxito, entre otras.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="flip-up")
         .cajon.color-acento-contenido.p-4.mb-4
-          p.mb-0 El funcionamiento de la BI dependerá de las preguntas y objetivos empresariales; para el desarrollo de estas preguntas se debe primero recopilar los datos necesarios, analizarlos y determinar qué acciones deberán hacerse para alcanzar los objetivos (Mosquera et al., 2017).
+          p.mb-0 El funcionamiento de la BI dependerá de las preguntas y objetivos empresariales; para el desarrollo de estas preguntas se debe primero recopilar los datos necesarios, analizarlos y determinar qué acciones deberán hacerse para alcanzar los objetivos (Mosquera, et al., 2017).
 
-    Separador
-
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.2 Bodega de datos (
-        em data warehouse
+    h3(data-aos='fade-right') Bodega de datos (
+      em data warehouse
         |)
 
     .row.justify-content-center.align-items-center.mb-5
@@ -94,9 +88,7 @@
           img(src="@/assets/curso/temas/tema2/img2-10.svg" alt="Bodega de datos")
       .col-lg-10.col-sm-10(data-aos="fade-left")
         p Repositorio donde se unifican datos que recogen diversos sistemas de una empresa. Este puede ser físico o lógico, cuya finalidad es obtener información de diversas fuentes para fines analíticos. Normalmente una bodega de datos es almacenada en un servidor local o en la nube, los datos se extraen selectivamente para su uso utilizando aplicaciones analíticas.
-        p.mb-0 Las bodegas de datos son arquitecturas donde se almacenan datos para permitir a los directivos de organizaciones comprenderlos y utilizarlos para la toma de decisiones importantes dentro de la empresa. Las bodegas de datos son conocidas en inglés como 
-          em data warehouse
-          |. Entre las más comunes se encuentran:
+        p.mb-0 El funcionamiento de la BI dependerá de las preguntas y objetivos empresariales; para el desarrollo de estas preguntas se debe primero recopilar los datos necesarios, analizarlos y determinar qué acciones deberán hacerse para alcanzar los objetivos (Mosquera, et al., 2017).
 
     .row.justify-content-center.mb-5
       .col-lg-7.col-sm-9(data-aos="zoom-in")
@@ -108,28 +100,17 @@
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="Sencilla")
             p Todas las bodegas comparten un diseño básico, los datos que no son procesados se guardan en un repositorio central que se alimenta de fuentes de datos permitiendo que los usuarios ingresen para las tareas de análisis.
-          .tarjeta.color-primario1.p-4(titulo="Sencilla con zona de preparación")
-            h4 Sencilla con zona de preparación
-            p Antes de colocar los datos en un almacén se hace necesario primero limpiarlos y procesarlos, con ayuda de la programación.
+          .tarjeta.color-primario1.p-4(titulo="Sencilla con zona<br> de preparación")
+            p Antes de colocar los datos en un almacén, se hace necesario limpiarlos y procesarlos, con ayuda de la programación.
           .tarjeta.color-primario1.p-4(titulo="Radial")
-            p Cuando se añade 
-              em data marts 
-              |entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar, que los 
-              em data mart 
-              |son versiones específicas (subconjuntos) de las bodegas de datos.
+            p Cuando se añade data marts entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar que los data mart son versiones específicas (subconjuntos) de las bodegas de datos.
           .tarjeta.color-primario1.p-4(titulo="Entornos de prueba")
-            h4 Entornos de prueba
-            p Llamados 
-              em sandbox
-              |, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar de forma rápida nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
+            p llamados <i>sandbox</i>, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar, de forma rápida, nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
       .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema2/img2-12.png" alt="Persona con computador portátil")
 
-    Separador
-
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.3 Procesamiento analítico en línea (OLAP) para las consultas
+    h3(data-aos='fade-right') Procesamiento analítico en línea (OLAP) para las consultas
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-sm-4(data-aos="fade-right")
@@ -137,14 +118,14 @@
           img(src="@/assets/curso/temas/tema2/img2-13.svg" alt="OLAP para consultas")
       .col-lg-7(data-aos="fade-left")
         p Es un método informático que permite extraer y consultar datos a los usuarios -de manera selectiva- para hacer un análisis desde diferentes puntos de vista. Esta tecnología permite la organización de las bases de datos empresariales, dando como resultado un análisis complejo.
-        p.mb-0 Las consultas del OLAP ayudan al análisis de tendencia, informes financieros, presupuestos y otros propósitos. Estos sistemas funcionan de la siguiente manera: primero los datos son guardados en almacenes de datos, cada cubo OLAP contiene categorías por dimensiones como lo son clientes, ventas, periodo de tiempo; luego las dimensiones se completan con miembros como son nombres de los clientes, países y meses, debidamente organizados.
+        p.mb-0 Las consultas del OLAP ayudan al análisis de tendencias, informes financieros, presupuestos y otros propósitos. Estos sistemas funcionan de la siguiente manera: primero los datos son guardados en almacenes de datos, cada cubo OLAP contiene categorías por dimensiones, como son los clientes, las ventas y el periodo de tiempo; luego, las dimensiones se completan con miembros, como nombres de los clientes, países y meses, debidamente organizados. 
 
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="flip-up")
         .cajon.color-acento-botones.p-4.mb-4
           p.mb-0 El método OLAP es utilizado en la minería de datos o descubrimiento de relaciones desconocidas entre elementos de datos; no necesita que la base de datos sea extensa, como un almacén de datos, porque no todos los datos transaccionales son necesarios para el análisis.
 
-    p.mb-5(data-aos="fade-right") Los sistemas OLAP, se dividen generalmente en tres tipos:
+    p.mb-5(data-aos="fade-right") Los sistemas OLAP se dividen generalmente en tres tipos:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-sm-4(data-aos="flip-left")
@@ -154,7 +135,7 @@
             .text-center.mt-4
               br
               br
-              h5 OLAP multidimensionoal (MOLAP)
+              h5 OLAP multidimensional (MOLAP)
               p.text-center Indexa directamente en una base de datos multidimensional.
       .col-lg-4.mb-sm-4(data-aos="flip-up")
         .tarjeta-avatar
@@ -163,8 +144,8 @@
             .text-center.mt-4
               br
               br
-              h5 OLAP relacionoal (ROLAP)
-              p.text-center Permite realizar un análisis multidimensional de forma dinámica de los datos almacenados en una DB relacional.
+              h5 OLAP relacional (ROLAP)
+              p.text-center Permite realizar un análisis multidimensional de forma dinámica, de los datos almacenados en una BD relacional.
       .col-lg-4.mb-sm-4(data-aos="flip-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img2-16.svg', alt='OLAP híbrido')
@@ -175,10 +156,7 @@
               h5 OLAP híbrido
               p.text-center Combina el ROLAP y MOLAP y desarrolla más capacidad de datos con un procesamiento superior a la MOLAP.
 
-    Separador
-
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.4 Niveles de abstracción de datos
+    h3(data-aos='fade-right') Niveles de abstracción de datos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-sm-2(data-aos="fade-right")
@@ -186,9 +164,7 @@
           img(src='@/assets/curso/temas/tema2/img2-20.svg', alt='Abstración de datos')
       .col-lg-10.col-sm-10(data-aos="fade-left")
         p Los niveles de abstracción de datos están relacionados directamente con la arquitectura de las bases de datos que se enfocan en cómo se muestran los datos al usuario y la forma en que el usuario los aprecia. Existen varias formas de clasificar los niveles, esto dependerá del detalle de las estructuras de datos complejas, en la relación que existan en los datos que muestra y cómo el usuario interactúa con la información presentada.
-        p.mb-0 Según la 
-          em ANSI/X3/SPARC
-          |, los niveles de abstracción de una base de datos se dividen en:
+        p.mb-0 Combina el ROLAP y MOLAP y desarrolla más capacidad de datos con un procesamiento superior a la MOLAP.
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Nivel interno o físico")
@@ -201,7 +177,7 @@
       .py-4.py-md-5(titulo="Nivel conceptual o lógico")
         .row.justify-content-center
           .col-md-4.mb-4.mb-md-0
-            p Es el más abstracto, también llamado nivel lógico. Estipula que datos se almacenan en la base de datos y sus relaciones. En este nivel solo desarrolla el administrador de la base de datos.
+            p Es el más abstracto, también llamado nivel lógico. Estipula qué datos se almacenan en la base de datos y sus relaciones. En este nivel solo desarrolla el administrador de la base de datos.
           .col-md-5
             figure
               img(src='@/assets/curso/temas/tema2/img2-22.svg', alt='Nivel lógico')
@@ -213,10 +189,7 @@
             figure
               img(src='@/assets/curso/temas/tema2/img2-23.svg', alt='Nivel de vistas')
 
-    Separador
-
-    #t_2_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 2.5 Conceptos de almacenamiento de datos
+    h3(data-aos='fade-right') Conceptos de almacenamiento de datos
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-sm-4(data-aos="fade-right")
@@ -224,12 +197,12 @@
           img(src='@/assets/curso/temas/tema2/img2-24.png', alt='Pantalla táctil')
       .col-lg-7(data-aos="fade-left")
         p El almacenamiento de datos consiste en conservar la información, utilizando una tecnología para mantenerlos y a su vez permitir disponibilidad cada vez que sea necesario acceder. El almacenamiento de datos especifica el uso de los medios de grabación para conservar la información. La manera generalmente utilizada es el almacenamiento de archivos, el de bloques y de objetos, con un objetivo diferente.
-        p.mb-0 Para el almacenamiento de archivos, la información se guarda en archivos y carpetas que se pueden encontrar generalmente en discos duros. Ahora bien, el almacenamiento de objetos es diferente ya que se almacenan de forma de objeto con metadatos e identificadores que son únicos; generalmente es económico almacenar datos de esta manera y es útil cuando se quiere almacenar datos que no requieren ser editados. Finalmente, el almacenamiento por bloques es mucho más costoso y complejo, es ideal para los datos de acceso y ediciones frecuentes.
+        p.mb-0 Para el almacenamiento de la información, esta se guarda en archivos y carpetas que se pueden encontrar generalmente, en discos duros. Ahora bien, el almacenamiento de objetos es diferente, porque se almacenan en forma de objeto con metadatos e identificadores que son únicos; generalmente, es económico almacenar datos de esta manera y es útil cuando se quiere almacenar datos que no requieren ser editados. Finalmente, el almacenamiento por bloques es mucho más costoso y complejo, es ideal para los datos de acceso y ediciones frecuentes.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-10(data-aos="flip-up")
         .cajon.color-acento-botones.p-4.mb-4
-          p.mb-0 Existen diversos repositorios, tantos físicos como digitales que se pueden utilizar para garantizar la confidencialidad, integridad y accesibilidad. El almacenamiento de datos cobija métodos y tecnologías de retención de información, permitiendo operaciones en todas las fases del ciclo de vida de los datos, iniciando en el almacenamiento y finalizando en su eliminación.
+          p.mb-0 Existen diversos repositorios, tantos físicos como digitales, que se pueden utilizar para garantizar la confidencialidad, integridad y accesibilidad. El almacenamiento de datos cobija métodos y tecnologías de retención de información, permitiendo operaciones en todas las fases del ciclo de vida de los datos, iniciando en el almacenamiento y finalizando en su eliminación.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-2.col-sm-2(data-aos="fade-right")
@@ -272,11 +245,9 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p.mb-4 Por otro lado, las computadoras tienen un tipo de almacenamiento no volátil que se usa solo para lectura como lo es la ROM, lo que significa que no se puede guardar información.
+        p.mb-4 Por otro lado, las computadoras tienen un tipo de almacenamiento no volátil que se usa solo para lectura, como lo es la ROM, lo que significa que no se puede guardar información.
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-up")
-          p.mb-0 Los SSD utilizan el método de almacenamiento en 
-            em chips 
-            |de memoria; la diferencia de las unidades de disco rígido HDD y los SSD es que los SDD no tienen partes mecánicas móviles, lo que permite una velocidad superior en el acceso a la información, menor latencia y persistencia de datos en memoria. También es importante resaltar que los sistemas de almacenamiento que utilizan discos requieren de un sistema de respaldo de batería para mantener los datos persistentes (Martin, 2018).
+          p.mb-0 Los SSD utilizan el método de almacenamiento en <i>chips</i> de memoria; la diferencia de las unidades de disco rígido HDD y los SSD es que los SSD no tienen partes mecánicas móviles, lo que permite una velocidad superior en el acceso a la información, menor latencia y persistencia de datos en memoria. También es importante resaltar que los sistemas de almacenamiento que utilizan discos requieren de un sistema de respaldo de batería para mantener los datos persistentes. (Martin, 2018).
       .col-lg-5.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema2/img2-31.png', alt='Disco duro')
@@ -294,7 +265,7 @@
               p Permite la centralización de la información y gestiona la seguridad aprobando el acceso a usuarios autorizados; es administrada desde un navegador y trabaja desde una conexión de red. Está dedicada a compartir la capacidad de almacenamiento de un ordenador.
           .row(titulo="<em>Direct Attached Storage</em> (DAS)")
             .col-md-12.mb-4.mb-md-0
-              p Es un método tradicional de almacenamiento, se realiza con el disco rígido interno de un PC; también se puede decir, que es un grupo de unidades en un servidor que se conectan directamente con él.
+              p Es un método tradicional de almacenamiento, se realiza con el disco rígido interno de un computador; también se puede decir que es un grupo de unidades en un servidor, que se conectan directamente con él.
           .row(titulo="<em>Storage Area Network</em> (SAN)")
             .col-md-12.mb-4.mb-md-0
               p Es una red de almacenamiento integral que se basa en unidades conectadas a una unidad de control que está a su vez conectada a un servidor mediante un canal de fibra o iSCSI.

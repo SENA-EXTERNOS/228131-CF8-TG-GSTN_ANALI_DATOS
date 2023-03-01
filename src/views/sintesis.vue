@@ -3,15 +3,10 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 Estimado aprendiz, se le invita a revisar el siguiente mapa mental para afianzar los contenidos desarrollados en sus relaciones.
-
-    .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
-      h5 Figura 3.
-      br
-      em Arquitectura del sistema
+    p.mb-5 El siguiente mapa integra los criterios y especificidades de los conocimientos expuestos en el presente componente formativo:
 
     .row.justify-content-center
-      .col-lg-11.mb-5
+      .col-lg-10.mb-5
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
       .col-auto

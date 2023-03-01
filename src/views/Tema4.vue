@@ -23,13 +23,13 @@
           img(src='@/assets/curso/temas/tema4/img4-2.svg', alt='Experiencias positivas')
           .tarjeta.cfta4.w-100
             .text-center.mt-4
-              h4 Ofrecer experiencias positivas
+              h4 Ofrecer experiencias positivas.
       .col-lg-3.mb-sm-4(data-aos="flip-left")
         .tarjeta-avatar.h-101
           img(src='@/assets/curso/temas/tema4/img4-3.svg', alt='Comercialización')
           .tarjeta.cfta4.w-100
             .text-center.mt-4
-              h4 Comercialización rápida
+              h4 Comercialización rápida.
       .col-lg-3.mb-sm-4(data-aos="flip-right")
         .tarjeta-avatar.h-101
           img(src='@/assets/curso/temas/tema4/img4-4.svg', alt='Análisis')
@@ -41,44 +41,29 @@
           img(src='@/assets/curso/temas/tema4/img4-5.svg', alt='Productividad')
           .tarjeta.cfta4.w-100
             .text-center.mt-4
-              h4 Mejor productividad
+              h4 Mejor productividad.
 
     p.mb-5 Para el desarrollo de la Infraestructura TI, se tiene en cuenta lo siguiente:
 
     .row.justify-content-center.mb-5
       .col-lg-8.col-sm-8
-        .titulo-sexto.color-acento-contenido.mb-5(data-aos='fade-right')
-          h5 Figura 2.
-          br
-          em Infraestructura TI
         figure(data-aos="zoom-in")
           img(src='@/assets/curso/temas/tema4/img4-6.svg', alt='Infraestructura TI')
 
-    Separador
-
-    #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.1 Infraestructura TI necesaria para alcanzar los objetivos del negocio
+    h3(data-aos='fade-right') Infraestructura TI necesaria para alcanzar los objetivos del negocio
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Las nuevas tecnologías tienen un potente impacto en las estrategias de negocio y brinda un soporte definido de trabajo, todos los servicios de tecnologías desde 
-          em App 
-          |móvil hasta aplicativos empresariales, requieren de una infraestructura TI como pilar de su eficacia. Esta infraestructura sirve en las estrategias de negocios.
-        p.mb-4 El objetivo es lograr la efectividad general de los procesos de TI, implementar las políticas apropiadas, el correcto manejo de los datos, optimizar el recurso humano; la infraestructura TI es fundamental ya que permite la toma de decisiones más inteligentes, monitorear el entorno tecnológico y detectar cuando existen cambios o actualizaciones de los sistemas, posibilitando ideas de cuándo y cómo se deben mitigar los riesgos.
+        p Las nuevas tecnologías tienen un potente impacto en las estrategias de negocio y brindan un soporte definido de trabajo. Todos los servicios de tecnologías, desde App móvil hasta aplicativos empresariales, requieren de una infraestructura TI como pilar de su eficacia. Esta infraestructura sirve en las estrategias de negocios.
+        p.mb-4 El objetivo es lograr la efectividad general de los procesos de TI, implementar las políticas apropiadas, el correcto manejo de los datos, optimizar el recurso humano; la infraestructura TI es fundamental, porque permite la toma de decisiones más inteligentes, monitorear el entorno tecnológico y detectar cuando existen cambios o actualizaciones de los sistemas, posibilitando ideas de cuándo y cómo se deben mitigar los riesgos.
 
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-up")
-          p De igual manera, se pueden limitar los posibles desastres y reducir el impacto de daños haciendo uso de 
-            em software 
-            |de monitoreo para identificar las amenazas de forma oportuna; desencadenando como resultante la reducción de costos, tiempos de inactividades y perdida de datos, entre otros.
+          p De igual manera, se pueden limitar los posibles desastres y reducir el impacto de daños haciendo uso de <i>software</i> de monitoreo para identificar las amenazas de forma oportuna, desencadenando como resultante, la reducción de costos, tiempos de inactividades y pérdida de datos, entre otros. 
 
       .col-lg-5.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img4-7.png', alt='Software')
 
-    Separador
-
-    #t_4_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.2 Tipos de infraestructuras TI
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="zoom-in")
@@ -97,27 +82,16 @@
         figure
           img(src='@/assets/curso/temas/tema4/img4-8.svg' alt='Infraestructura')
 
-    Separador
-
-    #t_4_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.3 Gestión de la infraestructura TI
+    h3(data-aos='fade-right') Gestión de la infraestructura TI
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-sm-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema4/img4-9.png' alt='Manos en computador portátil')
       .col-lg-7(data-aos="fade-left")
-        p La infraestructura TI es un sistema robusto que se compone de infraestructura física como son los servidores, equilibradores de carga, 
-          em firewall
-          |, componentes virtuales como 
-          em Hyper-V, Vmware
-          |, entre otros. Así como la modernización de la infraestructura progresa, los administradores TI deben actualizarse día a día para mantener sus redes e infraestructura de manera eficiente; es aquí donde se obtienen beneficios de una estrategia que esté dedicada a gestionar la infraestructura TI.
-        p.mb-0 La gestión de infraestructura TI (ITIM) es un proceso donde se supervisan muchos componentes como lo son el 
-          em hardware
-          |, el 
-          em software
-          |, redes y aquellos que implican en la infraestructura TI y así poder mejorar el monitoreo, reducir costos y ofrecer soluciones empresariales, gracias a la implementación del ITIM se desprenden varios desafíos como los siguientes:
-
+        p La infraestructura TI es un sistema robusto que se compone de infraestructura física, como los servidores, equilibradores de carga, <i>firewall</i>, componentes virtuales como Hyper-V, VMware, entre otros. Así como la modernización de la infraestructura progresa, los administradores TI deben actualizarse día a día para mantener sus redes e infraestructura de manera eficiente; es aquí donde se obtienen beneficios de una estrategia que esté dedicada a gestionar la infraestructura TI.
+        p La gestión de infraestructura TI (ITIM) es un proceso donde se supervisan muchos componentes, como lo son el <i>hardware</i>, el <i>software</i>, redes y aquellos que implican en la infraestructura TI y así poder mejorar el monitoreo, reducir costos y ofrecer soluciones empresariales. 
+        p.mb-0 Gracias a la implementación del ITIM, se desprenden varios desafíos como los siguientes: 
     .row.justify-content-center.mb-5
       .col-lg-8.col-sm-9(data-aos="flip-up")
         figure
@@ -150,10 +124,7 @@
             .col-md-12.mb-4.mb-md-0
               p La seguridad es efectiva en la infraestructura TI cuando se utilizan adecuadamente los estándares vigentes de seguridad; de igual manera, es necesario analizar posibles amenazas y monitorear el uso del Internet.
 
-    Separador
-
-    #t_4_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 4.4 Características dinámicas de la infraestructura TI
+    h3(data-aos='fade-right') Características dinámicas de la infraestructura TI
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-sm-4(data-aos="flip-left")
@@ -167,7 +138,7 @@
 
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-up")
           p.mb-0 La infraestructura ayuda a alinear el uso de TI con las políticas comerciales, maximizando el uso de los dispositivos y reduciendo los costos en las organizaciones.
-
+    p Recuerde explorar los demás recursos que se encuentran disponibles en este componente formativo; para ello, diríjase al menú principal, donde encontrará la síntesis, una actividad didáctica para reforzar los conceptos estudiados, material complementario, entre otros.
 </template>
 
 <script>

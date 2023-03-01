@@ -14,9 +14,9 @@
         figure
           img(src='@/assets/curso/temas/intro/intro.svg', alt='Arquitectura del sistema')
       .col-lg-8.recuadroid(data-aos="fade-left")
-        p Estimado aprendiz, una cordial bienvenida a este componente formativo basado en la temática de la modelación de bases de datos, validación de la arquitectura, definición de la misma, metodologías de desarrollo y conceptos de infraestructura TI.
-        p Para la elaboración de este componente, se abordaron varios autores conocidos en temas relacionados, de quienes se han citado y referenciado conceptos para los fines educativos de esta competencia, se espera que este documento sea útil para los aprendices y lectores en general.
-        p.mb-0 Antes de empezar, se sugiere mirar el siguiente video para identificar el contexto de aprendizaje.
+        p Estimado aprendiz, bienvenido a este componente formativo, donde se desarrollará una temática amplia sobre modelación de bases de datos, validación de la arquitectura, definición de la misma, metodologías de desarrollo y conceptos de infraestructura TI.
+        p Para la elaboración de este componente, se abordaron varios autores conocidos en temas relacionados, de quienes se han citado y referenciado conceptos para los fines educativos de esta competencia, se espera que este documento sea útil para los aprendices y lectores en general. 
+        p.mb-0 En el siguiente video conocerá, de forma general, la temática que se estudiará a lo largo del componente formativo.
 
     figure(data-aos="zoom-in")
       .video
