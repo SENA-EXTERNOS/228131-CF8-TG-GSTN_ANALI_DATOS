@@ -69,14 +69,12 @@
       .col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="Infraestructura<br> tradicional")
-            h4 Infraestructura tradicional
             p Está conformada por el 
               em hardware 
               |y 
               em software
               |, centros de datos, servidores y computadoras de red; generalmente, requiere más energía, espacio y dinero que otras infraestructuras.
           .tarjeta.color-primario1.p-4(titulo="Infraestructura<br> en la nube")
-            h4 Infraestructura en la nube
             p Similar a la anterior, la diferencia es que los usuarios finales pueden ingresar a través de Internet y se tiene la capacidad de virtualizar para ocupar menos recursos informáticos.
       .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
