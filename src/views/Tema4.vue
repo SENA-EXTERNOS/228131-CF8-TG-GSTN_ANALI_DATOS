@@ -66,19 +66,19 @@
 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8(data-aos="zoom-in")
+      .col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
-          .tarjeta.color-primario1.p-4(titulo="Infraestructura tradicional")
+          .tarjeta.color-primario1.p-4(titulo="Infraestructura<br> tradicional")
             h4 Infraestructura tradicional
             p Está conformada por el 
               em hardware 
               |y 
               em software
               |, centros de datos, servidores y computadoras de red; generalmente, requiere más energía, espacio y dinero que otras infraestructuras.
-          .tarjeta.color-primario1.p-4(titulo="Infraestructura en la nube")
+          .tarjeta.color-primario1.p-4(titulo="Infraestructura<br> en la nube")
             h4 Infraestructura en la nube
             p Similar a la anterior, la diferencia es que los usuarios finales pueden ingresar a través de Internet y se tiene la capacidad de virtualizar para ocupar menos recursos informáticos.
-      .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
+      .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img4-8.svg' alt='Infraestructura')
 
@@ -131,7 +131,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img4-12.png' alt='Infraestructura TI')
       .col-lg-8(data-aos="fade-left")
-        p Las infraestructuras dinámicas se refieren al conjunto de dispositivos como centros de datos, computación, redes y almacenamiento; estos se pueden ajustar automáticamente en la medida que cambian las demandas de la carga de trabajo y, de igual manera, los administradores pueden configurar manualmente los dispositivos, la infraestructura dinámica se basa principalmente en el software que permite identificar, virtualizar, clasificar y rastrear.
+        p Las infraestructuras dinámicas se refieren al conjunto de dispositivos como centros de datos, computación, redes y almacenamiento; estos se pueden ajustar automáticamente en la medida que cambian las demandas de la carga de trabajo y, de igual manera, los administradores pueden configurar manualmente los dispositivos, la infraestructura dinámica se basa principalmente en el <i>software</i> que permite identificar, virtualizar, clasificar y rastrear.
         p.mb-4 Gracias a los dispositivos, los equipos TI pueden establecer y monitorear múltiples niveles de servicios y así garantizar que, de manera automática, los dispositivos sean asignados según sus cargas; es por eso que el 
           em software 
           |da valor agregado al grupo cuando las demandas disminuyen en un proceso conocido como equilibrio de la carga de trabajo.

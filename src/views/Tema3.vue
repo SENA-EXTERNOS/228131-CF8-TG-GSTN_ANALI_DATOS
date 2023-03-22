@@ -16,7 +16,7 @@
           img(src='@/assets/curso/temas/tema3/img3-1.png', alt='Persona trabajando en computador')
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-4
+      .col-5
         .crd3_hover_txt(data-aos="flip-left")
           .crd3_hover_txt--img
             figure
@@ -24,7 +24,7 @@
           .crd3_hover_txt--body.w-100
             h4.mb-3.text-center Costo
             p.text-center.mb-0 Se refiere a cuánto se va a invertir en el mantenimiento. Es importante saber cuánto vale la aplicación en la que se va a invertir y el costo en la infraestructura.
-      .col-4
+      .col-5
         .crd3_hover_txt(data-aos="flip-left")
           .crd3_hover_txt--img
             figure
@@ -33,7 +33,7 @@
             h4.mb-3.text-center Tiempo de desarrollo
             p.text-center.mb-0 Se planea cuánto tardará el proyecto en ser ejecutado.
     .row.justify-content-center.align-items-center.mb-5            
-      .col-4
+      .col-5
         .crd3_hover_txt(data-aos="flip-left")
           .crd3_hover_txt--img
             figure
@@ -41,7 +41,7 @@
           .crd3_hover_txt--body.w-100
             h4.mb-3.text-center Número de usuarios
             p.text-center.mb-0 ¿cuántos usuarios soportará la aplicación y su funcionalidad, ya sea en escritorio o entornos web?
-      .col-4
+      .col-5
         .crd3_hover_txt(data-aos="flip-left")
           .crd3_hover_txt--img
             figure
@@ -222,7 +222,7 @@
     p.mb-5(data-aos="fade-left") Para el desarrollo de una verificación se debe tener en cuenta la consistencia, donde se vigila que la información sea coherente y precisa. Dentro de los métodos de verificación más utilizados están:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-7(data-aos="zoom-in")
+      .col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="Aserciones E/S")
             p Se especifica mediante aserciones donde se relacionan las entradas y salidas del programa, se garantiza si la entrada satisface los requerimientos y la salida satisface sus restricciones.
@@ -230,7 +230,7 @@
             p Consiste en encontrar un operando hacia atrás.
           .tarjeta.color-primario1.p-4(titulo="Inducción<br> estructural")
             p Es una técnica de verificación que se basa en el principio de inducción matemática.
-      .col-lg-5.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
+      .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema3/img3-19.svg' alt='Aprobación')
 

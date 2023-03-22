@@ -21,7 +21,7 @@
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-7(data-aos="fade-right")
-        p Es un proceso fundamental cuando se modelan los conjuntos de datos y se definen las operaciones que se realizan sobre ellos. Dado que los datos son el activo más importante en la empresa, una base de datos que esté bien diseñada, influye en la eficiencia que se obtenga a la hora de almacenar, recuperar y analizar los datos. (Giménez, 2019).
+        p Es un proceso fundamental cuando se modelan los conjuntos de datos y se definen las operaciones que se realizan sobre ellos. Dado que los datos son el activo más importante en la empresa, una base de datos que esté bien diseñada influye en la eficiencia que se obtenga a la hora de almacenar, recuperar y analizar los datos. (Giménez, 2019).
         p Dentro de las ventajas en el diseño de la base de datos están:
         ul.lista-ul
           li
@@ -82,7 +82,7 @@
     p.mb-5(data-aos="fade-right") Existen varias formas de normalizar; entre ellas, se encuentran las siguientes:
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="zoom-in")
+      .col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="La primera forma<br> normal")
             p En esta, se eliminan los grupos que se repiten dentro de las tablas que son individuales. Se hace necesario crear una tabla que esté separada para cada grupo de los datos relacionados e identificar cada grupo de datos, relacionados con una llave primaria.
@@ -90,7 +90,7 @@
             p Implica tener la primera forma normal y, adicionalmente, se crean tablas separadas para aquellos grupos de datos donde se le aplican a varios registros; también requiere relacionar las tablas mediante una llave externa.
           .tarjeta.color-primario1.p-4(titulo="Tercera forma<br> normal")
             p Luego de utilizar la segunda forma normal, se deben eliminar los campos que no dependan de las llaves. Ninguna columna puede depender de una columna que no tenga una clave, tampoco puede haber datos derivados.
-      .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
+      .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema1/img1-5.png" alt="Normalización")
 
@@ -149,7 +149,7 @@
           img(src="@/assets/curso/temas/tema1/img1-11.svg" alt="Código")
 
     .row.justify-content-center.mb-5
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -157,7 +157,7 @@
           .crd_hover_txt--body.w-100
             h4.mb-3.text-center Knime
             p.text-center.mb-0 Es una herramienta para analítica, reporte e integración de información.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -165,7 +165,8 @@
           .crd_hover_txt--body.w-100
             h4.mb-3.text-center H20.ai
             p.text-center.mb-0 API de Machine Learning de código abierto y de fácil escalabilidad, para análisis predictivos.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+    .row.justify-content-center.mb-5            
+      .col-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -173,7 +174,7 @@
           .crd_hover_txt--body.w-100
             h4.mb-3.text-center Anaconda
             p.text-center.mb-0 Es una plataforma de código abierto alimentada por Python; es de fácil uso y posee las siguientes ventajas: analítica avanzada, análisis de interacción y despliegue analítico.
-      .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-4
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure

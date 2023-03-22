@@ -57,7 +57,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '3',
         titulo:
-          '3.	Definición de arquitectura y metodología en desarrollo de <i>software</i>',
+          'Definición de arquitectura y metodología en desarrollo de <i>software</i>',
         desarrolloContenidos: true,
       },
       {

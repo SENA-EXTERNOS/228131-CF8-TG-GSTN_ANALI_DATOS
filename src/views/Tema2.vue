@@ -96,7 +96,7 @@
           img(src="@/assets/curso/temas/tema2/img2-11.svg" alt="Tipos de bodegas de datos")
 
     .row.justify-content-center.mb-5
-      .col-lg-8(data-aos="zoom-in")
+      .col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-primario1.p-4(titulo="Sencilla")
             p Todas las bodegas comparten un diseño básico, los datos que no son procesados se guardan en un repositorio central que se alimenta de fuentes de datos permitiendo que los usuarios ingresen para las tareas de análisis.
@@ -104,9 +104,9 @@
             p Antes de colocar los datos en un almacén, se hace necesario limpiarlos y procesarlos, con ayuda de la programación.
           .tarjeta.color-primario1.p-4(titulo="Radial")
             p Cuando se añade data marts entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar que los data mart son versiones específicas (subconjuntos) de las bodegas de datos.
-          .tarjeta.color-primario1.p-4(titulo="Entornos de prueba")
+          .tarjeta.color-primario1.p-4(titulo="Entornos de<br> prueba")
             p llamados <i>sandbox</i>, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar, de forma rápida, nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
-      .col-lg-4.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
+      .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema2/img2-12.png" alt="Persona con computador portátil")
 
