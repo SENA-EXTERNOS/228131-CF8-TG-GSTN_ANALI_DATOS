@@ -111,7 +111,7 @@
           .row.justify-content-center.align-items-center(titulo="A")
             .col-md-7.mb-4.mb-md-0
               h4 Atomicidad
-              p Define la manera en que el sistema permite llevar a cabo las operaciones atómicas; es conocido como el todo o nada de la transacción porque, en el caso que se completen las transacciones, se obtendrán las modificaciones requeridas en la base de datos. Si una parte de la transacción tiene un fallo, esto hará que todas las operaciones también fallen y, como consecuencia, la base de datos no sufrirá cambios.
+              p Define la manera en que el sistema permite llevar a cabo las operaciones atómicas; es conocido como el todo o nada de la transacción porque, en el caso de que se completen las transacciones, se obtendrán las modificaciones requeridas en la base de datos. Si una parte de la transacción tiene un fallo, esto hará que todas las operaciones también fallen y, como consecuencia, la base de datos no sufrirá cambios.
             .col-md-5
               figure
                 img(src="@/assets/curso/temas/tema1/img1-7.svg" alt="Atomicidad")
@@ -135,7 +135,7 @@
                 img(src="@/assets/curso/temas/tema1/img1-10.svg" alt="Durabilidad")
             .col-md-7.mb-4.mb-md-0
               h4 Durabilidad
-              p Es la capacidad de persistir y que las operaciones no puedan ser desechas, aún si el sistema presenta fallas o contingencias; durabilidad significa que se confirmó una transacción, un ejemplo de esto es cuando se almacenan datos en modelos relacionales o cuando se ejecutan sentencias de código SQL.
+              p Es la capacidad de persistir y que las operaciones no puedan ser deshechas, aún si el sistema presenta fallas o contingencias; durabilidad significa que se confirmó una transacción, un ejemplo de esto es cuando se almacenan datos en modelos relacionales o cuando se ejecutan sentencias de código SQL.
 
     h3(data-aos='fade-right') Herramientas de fuente abierta para bases de datos orientadas a la analítica
 

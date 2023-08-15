@@ -40,7 +40,7 @@
               img(src="@/assets/curso/temas/tema3/img3-4.png", alt="Usuarios")
           .crd3_hover_txt--body.w-100
             h4.mb-3.text-center Número de usuarios
-            p.text-center.mb-0 ¿cuántos usuarios soportará la aplicación y su funcionalidad, ya sea en escritorio o entornos web?
+            p.text-center.mb-0 ¿Cuántos usuarios soportará la aplicación y su funcionalidad, ya sea en escritorio o entornos web?
       .col-5
         .crd3_hover_txt(data-aos="flip-left")
           .crd3_hover_txt--img

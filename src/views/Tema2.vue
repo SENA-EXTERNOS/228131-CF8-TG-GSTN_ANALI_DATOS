@@ -105,7 +105,7 @@
           .tarjeta.color-primario1.p-4(titulo="Radial")
             p Cuando se añade data marts entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar que los data mart son versiones específicas (subconjuntos) de las bodegas de datos.
           .tarjeta.color-primario1.p-4(titulo="Entornos de<br> prueba")
-            p llamados <i>sandbox</i>, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar, de forma rápida, nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
+            p Llamados <i>sandbox</i>, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar, de forma rápida, nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
       .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
         figure
           img(src="@/assets/curso/temas/tema2/img2-12.png" alt="Persona con computador portátil")
@@ -216,12 +216,12 @@
         .row.justify-content-center.align-items-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img2-25.svg', alt='Memoria RAM')(style="height: 144.2px")
-        h5.text-center Memoria RAM
+        h5.text-center Memoria Caché
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
             img(src='@/assets/curso/temas/tema2/img2-26.svg', alt='Memoria Caché')(style="height: 144.2px")
-        h5.text-center Memoria Caché
+        h5.text-center Memoria RAM
       .tarjeta.color-primario2.p-4
         .row.justify-content-center.align-items-center.mb-3
           .col-8
