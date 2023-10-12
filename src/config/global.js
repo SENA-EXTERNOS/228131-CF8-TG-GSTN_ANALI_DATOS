@@ -41,8 +41,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo:
-          'Modelado de bases de datos para la analítica y su metodología de diseño',
+        titulo: 'Modelado de bases de datos para la analítica',
         desarrolloContenidos: true,
       },
       {

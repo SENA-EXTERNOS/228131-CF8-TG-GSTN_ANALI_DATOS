@@ -88,7 +88,7 @@
           img(src="@/assets/curso/temas/tema2/img2-10.svg" alt="Bodega de datos")
       .col-lg-10.col-sm-10(data-aos="fade-left")
         p Repositorio donde se unifican datos que recogen diversos sistemas de una empresa. Este puede ser físico o lógico, cuya finalidad es obtener información de diversas fuentes para fines analíticos. Normalmente una bodega de datos es almacenada en un servidor local o en la nube, los datos se extraen selectivamente para su uso utilizando aplicaciones analíticas.
-        p.mb-0 El funcionamiento de la BI dependerá de las preguntas y objetivos empresariales; para el desarrollo de estas preguntas se debe primero recopilar los datos necesarios, analizarlos y determinar qué acciones deberán hacerse para alcanzar los objetivos (Mosquera, et al., 2017).
+        p.mb-0 Las bodegas de datos son arquitecturas donde se almacenan datos para permitir a los directivos de organizaciones comprenderlos y utilizarlos para la toma de decisiones importantes dentro de la empresa. Las bodegas de datos son conocidas en inglés como <em>data warehouse</em>. Entre las más comunes se encuentran:
 
     .row.justify-content-center.mb-5
       .col-lg-7.col-sm-9(data-aos="zoom-in")
@@ -103,7 +103,7 @@
           .tarjeta.color-primario1.p-4(titulo="Sencilla con zona<br> de preparación")
             p Antes de colocar los datos en un almacén, se hace necesario limpiarlos y procesarlos, con ayuda de la programación.
           .tarjeta.color-primario1.p-4(titulo="Radial")
-            p Cuando se añade data marts entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar que los data mart son versiones específicas (subconjuntos) de las bodegas de datos.
+            p Cuando se añade data mart entre el repositorio central y los usuarios finales, las empresas pueden personalizar sus bodegas de datos para atender varias áreas. Cabe resaltar que los data marts son versiones específicas (subconjuntos) de las bodegas de datos.
           .tarjeta.color-primario1.p-4(titulo="Entornos de<br> prueba")
             p Llamados <i>sandbox</i>, son zonas seguras, privadas y protegidas donde las organizaciones pueden profundizar, de forma rápida, nuevos conjuntos de datos o mejores formas de analizarlos, sin tener que cumplir con las reglas y los protocolos de una bodega de datos.
       .col-lg-3.order-sm-first.order-lg-last.mb-sm-4(data-aos="fade-right")
@@ -163,8 +163,8 @@
         figure
           img(src='@/assets/curso/temas/tema2/img2-20.svg', alt='Abstración de datos')
       .col-lg-10.col-sm-10(data-aos="fade-left")
-        p Los niveles de abstracción de datos están relacionados directamente con la arquitectura de las bases de datos que se enfocan en cómo se muestran los datos al usuario y la forma en que el usuario los aprecia. Existen varias formas de clasificar los niveles, esto dependerá del detalle de las estructuras de datos complejas, en la relación que existan en los datos que muestra y cómo el usuario interactúa con la información presentada.
-        p.mb-0 Combina el ROLAP y MOLAP y desarrolla más capacidad de datos con un procesamiento superior a la MOLAP.
+        p Los niveles de abstracción de datos están relacionados directamente con la arquitectura de las bases de datos que se enfocan en cómo se muestran los datos al usuario y la forma en que el usuario los aprecia. Existen varias formas de clasificar los niveles, esto dependerá del detalle de las estructuras de datos complejas, en la relación que exista en los datos que muestra y cómo el usuario interactúa con la información presentada.
+
 
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-4.py-md-5(titulo="Nivel interno o físico")

@@ -211,7 +211,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/img3-18.png' alt='Verificación de software')
       .col-lg-7(data-aos="fade-left")
-        p Abarca un grupo de procesos de comprobación y análisis donde se asegura que todas las especificaciones y necesidades estén desarrolladas en el <i>software</i>. Dentro de los objetivos están valorar y mejorar la calidad del <i>software</i> desarrollado; los atributos de la calidad deben ser la corrección, perfección, consistencia, confiabilidad, estandarización y eficacia de costos.
+        p Dentro de los objetivos están valorar y mejorar la calidad del <i>software</i> desarrollado; los atributos de la calidad deben ser la corrección, perfección, consistencia, confiabilidad, estandarización y eficacia de costos.
         p.mb-4 Existen dos tipos de verificación, la formal y la del ciclo de vida. La verificación formal es demostrable matemáticamente en la concordancia del código fuente con sus especificaciones; la verificación del ciclo de vida es un proceso en donde se plantean fases que cumplen con las especificaciones establecidas.
 
         .cajon.color-acento-botones.p-4.mb-4(data-aos="flip-up")
