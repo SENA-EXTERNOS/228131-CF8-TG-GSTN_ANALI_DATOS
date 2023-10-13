@@ -93,7 +93,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8.col-sm-9(data-aos="flip-up")
         figure
-          img(src='@/assets/curso/temas/tema4/img4-10.svg' alt='ITIM Implementation')
+          img(src='@/assets/curso/temas/tema4/img4-10-.svg' alt='ITIM Implementation')
 
     .row.justify-content-center.mb-5
       .col-lg-4.mb-sm-4(data-aos="fade-right")
