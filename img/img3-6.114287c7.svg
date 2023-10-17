@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1069.875" height="450.96" viewBox="0 0 1069.875 450.96">
+  <g id="Grupo_215628" data-name="Grupo 215628" transform="translate(-265 -1218.286)">
+    <g id="Grupo_215565" data-name="Grupo 215565" transform="translate(0 1.786)">
+      <rect id="Rectángulo_296050" data-name="Rectángulo 296050" width="300" height="80" rx="20" transform="translate(649.5 1218.5)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="4" stroke-dasharray="6 0"/>
+      <rect id="Rectángulo_296051" data-name="Rectángulo 296051" width="165" height="80" rx="10.231" transform="translate(454.021 1411.46)" fill="#0f2771"/>
+      <rect id="Rectángulo_296052" data-name="Rectángulo 296052" width="165" height="80" rx="10.231" transform="translate(642.875 1411.46)" fill="#4dd0e1"/>
+      <rect id="Rectángulo_296053" data-name="Rectángulo 296053" width="165" height="80" rx="10.231" transform="translate(818.875 1411.46)" fill="#4dd0e1"/>
+      <rect id="Rectángulo_296054" data-name="Rectángulo 296054" width="165" height="80" rx="12" transform="translate(993.875 1411.46)" fill="#feca2e"/>
+      <rect id="Rectángulo_296059" data-name="Rectángulo 296059" width="165" height="80" rx="10.231" transform="translate(1169.875 1411.46)" fill="#bddcf6"/>
+      <rect id="Rectángulo_296056" data-name="Rectángulo 296056" width="150" height="60" rx="12" transform="translate(308.613 1523.46)" fill="#0f2771"/>
+      <rect id="Rectángulo_296060" data-name="Rectángulo 296060" width="150" height="60" rx="10.231" transform="translate(308.613 1607.46)" fill="#0f2771"/>
+      <path id="Trazado_223949" data-name="Trazado 223949" d="M539.857,238.591H157.309V534.026h42.613" transform="translate(108.691 1021.281)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_223950" data-name="Trazado 223950" d="M536.239,245.329H178.2V611.843H196.3" transform="translate(112.309 1022.448)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_223952" data-name="Trazado 223952" d="M744.856,245.329H1048.3v143.64" transform="translate(208.732 1022.448)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_223951" data-name="Trazado 223951" d="M499.917,249.59H387.889V388.23" transform="translate(148.632 1023.187)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_497" data-name="Línea 497" y2="143.64" transform="translate(1075.678 1267.777)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_495" data-name="Línea 495" y2="115.175" transform="translate(900.066 1296.241)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_496" data-name="Línea 496" y2="115.175" transform="translate(724.455 1296.241)" fill="none" stroke="#0c1f5a" stroke-miterlimit="10" stroke-width="2"/>
+      <text id="Desarrollo_de_software" data-name="Desarrollo de software" transform="translate(673 1268)" fill="#12263f" font-size="25" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Desarrollo de </tspan><tspan y="0" font-family="Roboto-BlackItalic, Roboto" font-style="italic">software</tspan></text>
+      <text id="Estilos" transform="translate(508.533 1457.96)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Estilos</tspan></text>
+      <text id="Arquitecturas_ágiles" data-name="Arquitecturas
+ágiles" transform="translate(725.375 1446.96)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-53.903" y="0">Arquitecturas</tspan><tspan x="-23.722" y="22">ágiles</tspan></text>
+      <text id="Patrones_de_diseño" data-name="Patrones de
+diseño" transform="translate(901.375 1446.96)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-48.001" y="0">Patrones de</tspan><tspan x="-26.767" y="22">diseño</tspan></text>
+      <text id="Verificación" transform="translate(1076.375 1457.96)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-47.307" y="0">Verificación</tspan></text>
+      <text id="Mantenimiento" transform="translate(1252.375 1457.96)" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="-60.368" y="0">Mantenimiento</tspan></text>
+      <text id="Introducción" transform="translate(330.036 1559.96)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Introducción</tspan></text>
+      <text id="Evaluación" transform="translate(337.295 1644.96)" fill="#fff" font-size="18" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Evaluación</tspan></text>
+    </g>
+  </g>
+</svg>
